@@ -1,10 +1,10 @@
-# py-optDMD
-A Python implementation of code for computing optimized DMD.
-This code is a numpy/scipy implementation of optimized DMD, written directly from a MATLAB version by Travis Askham, available here: https://github.com/duqbo/optdmd
+# Modelling from measurements - homwork's solutions
+This repository contined the code for the solution of the "homework". This project counts as the exam for the course of "Modelling from measurements", held by professor Nathan Kutz in Politecnico di Milano (June 2022). 
 
-The code aims to implement optimized DMD as described in "Variable Projection Methods for an Optimized Dynamic Mode Decomposition" by Askham and Kutz.
+First 3 questions are developed in MATLAB environment, the other ones in Python
 
-Currently, it has been checked that it reproduces the DMD modes and eigenvalues from the very first simple example given in Askham's code.
+To run the Python code two packages among the others,  TensorFlow and PySINDy, are necessary.
 
-All additional bugs and errors are my own.
-# ModellingFromMeasurement_homework
+I'd like to thank professor Kutz for the lectures he gave us with so much passion. I really hope I will have the opportunity to use these powerful tools in my future works. 
+
+Luca Radicioni
